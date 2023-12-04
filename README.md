@@ -16,7 +16,7 @@ This project, a part of the Natural Language Processing (NLP) course, focuses on
 - **Libraries Used:** NumPy, pandas, nltk, along with specific packages for stemming and lemmatization.
 
 ## Project Timeline
-- **Duration:** March 2023 to May 2023
+- **Duration:** March 2023 - May 2023
 
 ## Project Status
 - The team is currently in the midst of the project, with ongoing efforts to refine and enhance the hate speech detection algorithm. There are plans to continue its development, potentially improving its accuracy and expanding its application to broader contexts.
